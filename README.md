@@ -14,10 +14,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=heargo&show_icons=true&locale=en&theme=tokyonight " alt="heargo" />
 </p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=heargo&theme=tokyonight" alt="heargo" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heargo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="heargo" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heargo&theme=tokyonight" alt="heargo" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heargo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="heargo" /></p>
 <br>
-<p>Note : Languages statistics are based on my public repo and doesn't represent my skills.</p>
+<p  align="center">Note : Languages statistics are based on my public repo and doesn't represent my skills.</p>
 
 
 
