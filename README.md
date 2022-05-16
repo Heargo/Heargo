@@ -2,7 +2,6 @@
 <h3 align="center">Student in USMB </h3>
 
 
-- 🌱 I’m currently learning **vuejs**
 - 🔎 [my website](https://heargo.dev)
 
 
