@@ -3,6 +3,7 @@
 
 
 - 🔎 [my website](https://heargo.dev)
+- 🌱 I’m currently learning C++ & C# 
 
 
 ## 🏆 Trophies
