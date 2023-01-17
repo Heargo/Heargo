@@ -3,8 +3,6 @@
 
 
 - 🔎 [my website](https://heargo.dev)
-- 🌱 I’m currently learning C++ & C# 
-
 
 ## 🏆 Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=heargo&rank=B,A,AA,AAA,S,SS,SSS,SECRET&column=2&no-frame=true" alt="https://github.com/ryo-ma/github-profile-trophy" /></p>
