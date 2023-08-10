@@ -3,8 +3,8 @@
 
 
 - 🔎 [my website](https://heargo.dev)
-- 🌱 I’m currently learning Angular & Appwrite
-- 🔭 I’m currently working on RPG Manager
+- 🌱 I’m currently learning Svelte & Go
+- 🔭 I’m currently working on personal projets
  <!--
 ## 🏆 Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=heargo&rank=B,A,AA,AAA,S,SS,SSS,SECRET&column=2&no-frame=true" alt="https://github.com/ryo-ma/github-profile-trophy" /></p>
