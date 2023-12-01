@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Hugo</h1>
 <h3 align="center">Student in USMB </h3>
 
-
-- 🔎 [my website](https://heargo.dev)
-- 🌱 I’m currently learning Svelte & Go
-- 🔭 I’m currently working on personal projets
- <!--
-## 🏆 Trophies
+- 🔎 [Hugo](https://heargo.dev)
+<!--## 🏆 Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=heargo&rank=B,A,AA,AAA,S,SS,SSS,SECRET&column=2&no-frame=true" alt="https://github.com/ryo-ma/github-profile-trophy" /></p>
 -->
 ## 📈 Stats
