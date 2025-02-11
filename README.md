@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hugo</h1>
-<h3 align="center">Student in USMB </h3>
+<h3 align="center">Fullstack developer </h3>
 
 - 🔎 [Hugo](https://heargo.dev)
 <!--## 🏆 Trophies
